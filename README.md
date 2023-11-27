@@ -25,7 +25,8 @@ print (b)
 
 ```
 ## Output:
-![output](/rank.png)
+![output](/)![rank](https://github.com/Bhagath118/RANK-OF-A-MATRIX/assets/147473779/d5622c39-37cf-4ca9-a2d4-fd7dbedf15c7)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
